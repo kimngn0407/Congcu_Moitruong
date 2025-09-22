@@ -71,10 +71,11 @@
             // 
             this.btnlogin.Location = new System.Drawing.Point(123, 235);
             this.btnlogin.Name = "btnlogin";
-            this.btnlogin.Size = new System.Drawing.Size(75, 23);
+            this.btnlogin.Size = new System.Drawing.Size(118, 23);
             this.btnlogin.TabIndex = 4;
             this.btnlogin.Text = "Dang Nhap";
             this.btnlogin.UseVisualStyleBackColor = true;
+            this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click);
             // 
             // d
             // 

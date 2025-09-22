@@ -21,5 +21,14 @@ namespace WindowsForm1
         {
 
         }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            Form2 successForm = new Form2();
+            successForm.Show();
+
+            // Ẩn form hiện tại (nếu muốn)
+            this.Hide();
+        }
     }
 }

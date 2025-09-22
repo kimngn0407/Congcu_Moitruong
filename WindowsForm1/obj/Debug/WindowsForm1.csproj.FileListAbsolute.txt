@@ -1,0 +1,11 @@
+E:\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.exe.config
+E:\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.exe
+E:\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.pdb
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.csproj.AssemblyReference.cache
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.d.resources
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.Form2.resources
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.Properties.Resources.resources
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.csproj.GenerateResource.cache
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.csproj.CoreCompileInputs.cache
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.exe
+E:\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.pdb
